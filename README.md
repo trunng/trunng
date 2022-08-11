@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 WELCOME TO MY GITHUB TRUNNG
+👋 WELCOME TO TRUNNG's GITHUB
 
 🔭 My name is Trung and I am a junior from University of Information Technology.
 
