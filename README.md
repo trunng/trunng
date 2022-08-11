@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everyone! My name is Trung and I am a junior from University of Information Technology.
+👋 Hi everyone!
 
-I'm currently learning about web/app design including UX/UI, front-end and database.
+🔭 My name is Trung and I am a junior from University of Information Technology.
 
-I'm trying with the goals which is becoming an excellent IT bachelor.
+✨ I'm currently learning about web/app design including UX/UI, front-end by ReactJS and database.
 
-My dream job in the future is IT Business Analyst.
+⚡ I'm trying with the goals which is becoming an excellent IT bachelor.
 
-Contact me: nttrung01072002@gmail.com
+🌱 My dream job in the future is IT Business Analyst.
+
+📫 Contact me: nttrung01072002@gmail.com
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trunng&theme=github)
