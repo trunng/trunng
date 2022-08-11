@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trunng&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trunng&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trunng&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trunng&theme=github)
