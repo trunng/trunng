@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi everyone!
+👋 **WELCOME TO MY GITHUB TRUNNG **
 
 🔭 My name is Trung and I am a junior from University of Information Technology.
 
@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trunng&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trunng&theme=github)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trunng&theme=github)
