@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi everyone! My name is Trung and I am a junior from University of Information Technology.
+
+I'm currently learning about web/app design including UX/UI, front-end and database.
+
+I'm trying with the goals which is becoming an excellent IT bachelor.
+
+My dream job in the future is IT Business Analyst.
+
+Contact me: nttrung01072002@gmail.com
