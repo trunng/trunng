@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 📫 Contact me: nttrung01072002@gmail.com
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trunng&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trunng&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trunng&theme=github)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
