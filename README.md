@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+<!--### Hi there 👋
 **trunng/trunng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 **WELCOME TO MY GITHUB TRUNNG **
+👋 ###WELCOME TO MY GITHUB TRUNNG
 
 🔭 My name is Trung and I am a junior from University of Information Technology.
 
