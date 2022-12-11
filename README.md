@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 👋 WELCOME TO TRUNNG's GITHUB
 
-🔭 My name is Trung and I am a junior from University of Information Technology.
+🔭 My name is Trung - a junior from University of Information Technology.
 
-✨ I'm currently learning about web/app design including UX/UI, front-end by ReactJS and database.
+✨ I'm currently learning about web/app development including UX/UI design, front-end coding by using ReactJS and database.
 
 ⚡ I'm trying with the goals which is becoming an excellent IT bachelor.
 
