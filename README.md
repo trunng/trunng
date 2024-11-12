@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 WELCOME TO TRUNNG's GITHUB
 
-🔭 My name is Trung - a junior from University of Information Technology.
+🔭 My name is Loi - a junior from Van Hien University VHU.
 
 ✨ I'm currently learning about web/app development including UX/UI design, front-end coding by using ReactJS and database.
 
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 🌱 My dream job in the future is IT Business Analyst.
 
-📫 Contact me: nttrung01072002@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
