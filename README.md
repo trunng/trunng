@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 WELCOME TO TRUNNG's GITHUB
 
-🔭 My name is Loi - a junior from Van Hien University VHU.
+🔭 My name is Trung.
 
 ✨ I'm currently learning about web/app development including UX/UI design, front-end coding by using ReactJS and database.
 
